@@ -44,7 +44,7 @@ Desenvolvedores:
 
 ## 3 - Sherlock
 
-<img src="https://github.com/user-attachments/assets/22523095-e834-4f18-a4be-0a790acc71f5" alt="Descrição" width="300"/>
+<img src="https://github.com/user-attachments/assets/22523095-e834-4f18-a4be-0a790acc71f5" width="300"/>
 
 
 **Quem sou eu:🕵️‍♂️ Elementar, meu caro... sou Sherlock Holmes, o maior detetive da história, e estou investigando o roubo de um quadro raríssimo — todas as pistas me trouxeram até você; então, cuidado com cada resposta, pois qualquer deslize pode revelar sua culpa. 🔎🖼️**
